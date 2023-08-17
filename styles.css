@@ -19,7 +19,7 @@ html{
     height: 180px;
     padding-left: 2px;
     overflow: hidden;
-    
+
    
 }
 .key{
@@ -55,4 +55,8 @@ html{
     .logo{
         width: 150px;
     }
+}
+
+@media (min-width:769px ) and (max-width: 1199px){
+
 }
